@@ -1,7 +1,7 @@
 {
   "name": "ChatBot",
   "description": "A telegram bot",
-  "logo": "https://graph.org/file/33a15ad747ab90ab19ba6.jpg",
+  "logo": "https://telegra.ph/file/c69b9f86e2d2bb12d00f4.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THEMOHMAYA/TMMChatbotV2",
+  "repository": "https://t.me/StatusWorld_05",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
